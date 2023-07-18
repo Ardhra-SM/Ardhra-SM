@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardhra-SM
 - 👀 I’m interested in paleoclimate data analysis and future climate prediction using climate model data
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning HTML, CSS, and Machine learning
 - 📫 How to reach me ardhrasedhu1999@gmail.com
 
 <!---
